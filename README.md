@@ -17,6 +17,11 @@
 pipenv shell
 ```
 
+## Install dependencies
+```
+pipenv install
+```
+
 ## Start scraping
 ```
 python3 scrape.py
