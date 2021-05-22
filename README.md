@@ -1,4 +1,4 @@
-# Instagram web scrape
+# Instagram Web Scraper
 
 > check chrome version
 
